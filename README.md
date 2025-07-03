@@ -1,4 +1,4 @@
-# 🧮 Validador de Custo
+# Validador de Custo
 
 Este projeto é um sistema desenvolvido para realizar **cálculos de custos adicionais logísticos**, como:
 
